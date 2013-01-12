@@ -20,6 +20,8 @@ The driver takes the following parameters:
 
 * `location`: the server url. Default is 'http://localhost:5984'.
 * `database`: the database you want to connect to.
+* `username`: set this if your couchdb is not an Admin Party.
+* `password`: set this if your couchdb is not an Admin Party.
 
 
 License
