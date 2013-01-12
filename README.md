@@ -26,6 +26,7 @@ License
 -------
 
 This file is part of databank-couchdb, a CouchDB driver for databank.
+
 Copyright 2013 Kuno Woudt <kuno@frob.nl>
 
 Licensed under the Apache License, Version 2.0 (the "License"); you
